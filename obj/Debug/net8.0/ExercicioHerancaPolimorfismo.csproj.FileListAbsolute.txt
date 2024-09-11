@@ -1,0 +1,14 @@
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\ExercicioHerancaPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\ExercicioHerancaPolimorfismo.AssemblyInfoInputs.cache
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\ExercicioHerancaPolimorfismo.AssemblyInfo.cs
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\ExercicioHerancaPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\bin\Debug\net8.0\ExercicioHerancaPolimorfismo.exe
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\bin\Debug\net8.0\ExercicioHerancaPolimorfismo.deps.json
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\bin\Debug\net8.0\ExercicioHerancaPolimorfismo.runtimeconfig.json
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\bin\Debug\net8.0\ExercicioHerancaPolimorfismo.dll
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\bin\Debug\net8.0\ExercicioHerancaPolimorfismo.pdb
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\ExercicioHerancaPolimorfismo.dll
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\refint\ExercicioHerancaPolimorfismo.dll
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\ExercicioHerancaPolimorfismo.pdb
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\ExercicioHerancaPolimorfismo.genruntimeconfig.cache
+C:\Temp\Projetos C#\ExercicioHerançaPolimorfismo\ExercicioHerançaPolimorfismo\obj\Debug\net8.0\ref\ExercicioHerancaPolimorfismo.dll
